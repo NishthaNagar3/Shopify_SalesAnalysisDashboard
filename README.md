@@ -1,6 +1,10 @@
 # Shopify Sales Analysis Dashboard | Power BI
 ## 📊 Project Overview
-This Power BI dashboard provides a comprehensive analysis of Shopify sales data to uncover actionable insights into sales performance, customer purchasing behavior, and customer retention/value. Designed for business stakeholders, the dashboard offers an interactive and visually rich interface to support data-driven decisions and long-term growth strategies.
+This Power BI dashboard provides a comprehensive analysis of Shopify sales data, uncovering actionable insights into sales performance, customer purchasing behavior, and customer retention/value. Designed for business stakeholders, the dashboard offers an interactive and visually rich interface to support data-driven decisions and long-term growth strategies.
+
+## Dashbaord Preview
+![image](https://github.com/user-attachments/assets/abcb12f8-61d2-40b0-b788-e4d31a56fb87)
+
 
 ## 🎯 Business Objectives
 1. Evaluate transaction-level performance to track revenue and sales health.
