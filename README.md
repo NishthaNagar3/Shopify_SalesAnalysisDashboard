@@ -8,7 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of Shopify sales data 
 3. Monitor customer retention metrics and estimate lifetime value.
 4. Empower stakeholders to drill down into detailed transaction data for in-depth analysis.
 
-#3 📌 Key Features & KPIs
+## 📌 Key Features & KPIs
 1. Transaction Performance
 Net Sales (before tax)
 Total Quantity Sold
